@@ -1,0 +1,8 @@
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 23\Практическая 23\bin\Debug\Практическая 23.exe.config
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 23\Практическая 23\bin\Debug\Практическая 23.exe
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 23\Практическая 23\bin\Debug\Практическая 23.pdb
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 23\Практическая 23\obj\Debug\Практическая 23.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 23\Практическая 23\obj\Debug\Практическая 23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 23\Практическая 23\obj\Debug\Практическая 23.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 23\Практическая 23\obj\Debug\Практическая 23.exe
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 23\Практическая 23\obj\Debug\Практическая 23.pdb
