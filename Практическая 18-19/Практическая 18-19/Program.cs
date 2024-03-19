@@ -12,7 +12,15 @@ namespace Практическая_18_19
         static void Main(string[] args)
         {
 
-            
+            ShiftSupervisor a = new ShiftSupervisor(
+                "Petrov Petrovich",
+                "Отличный работник и замечательный семьянин",
+                350,
+                34
+                );
+            a.Info();
+
+            Console.ReadLine();
 
         }
     }

@@ -1,0 +1,8 @@
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 18-19\Практическая 18-19\obj\Debug\Практическая 18-19.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 18-19\Практическая 18-19\obj\Debug\Практическая 18-19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 18-19\Практическая 18-19\obj\Debug\Практическая 18-19.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 18-19\Практическая 18-19\bin\Debug\Практическая 18-19.exe.config
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 18-19\Практическая 18-19\bin\Debug\Практическая 18-19.exe
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 18-19\Практическая 18-19\bin\Debug\Практическая 18-19.pdb
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 18-19\Практическая 18-19\obj\Debug\Практическая 18-19.exe
+C:\Users\Hi-tech\Documents\АУ А МОЖНО ДРУГОЙ ЯП\Base-of-Algorithmisation-and-Programming\Практическая 18-19\Практическая 18-19\obj\Debug\Практическая 18-19.pdb
