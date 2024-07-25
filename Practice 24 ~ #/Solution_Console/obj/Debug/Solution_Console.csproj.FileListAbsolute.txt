@@ -1,0 +1,7 @@
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution_Console\bin\Debug\Solution_Console.exe.config
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution_Console\bin\Debug\Solution_Console.exe
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution_Console\bin\Debug\Solution_Console.pdb
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution_Console\obj\Debug\Solution_Console.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution_Console\obj\Debug\Solution_Console.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution_Console\obj\Debug\Solution_Console.exe
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution_Console\obj\Debug\Solution_Console.pdb

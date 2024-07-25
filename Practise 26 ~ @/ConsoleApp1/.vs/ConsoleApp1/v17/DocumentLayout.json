@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D116CDAC-C231-4FC3-9B2C-113928CC7936}|..\\App\\App.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practise 26 ~ @\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D116CDAC-C231-4FC3-9B2C-113928CC7936}|..\\App\\App.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practise 26 ~ @\\app\\datedialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D116CDAC-C231-4FC3-9B2C-113928CC7936}|..\\App\\App.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practise 26 ~ @\\app\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D116CDAC-C231-4FC3-9B2C-113928CC7936}|..\\App\\App.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practise 26 ~ @\\app\\task2\\protectiondevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D116CDAC-C231-4FC3-9B2C-113928CC7936}|..\\App\\App.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practise 26 ~ @\\app\\task2\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D116CDAC-C231-4FC3-9B2C-113928CC7936}|..\\App\\App.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practise 26 ~ @\\app\\instruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D116CDAC-C231-4FC3-9B2C-113928CC7936}|..\\App\\App.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practise 26 ~ @\\app\\task1\\tramvai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\Task2\\Generator.cs",
+              "RelativeDocumentMoniker": "..\\App\\Task2\\Generator.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\Task2\\Generator.cs",
+              "RelativeToolTip": "..\\App\\Task2\\Generator.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:04:17.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\Program.cs",
+              "RelativeDocumentMoniker": "..\\App\\Program.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\Program.cs",
+              "RelativeToolTip": "..\\App\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:08:11.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JSON.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\JSON.cs",
+              "RelativeDocumentMoniker": "..\\App\\JSON.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\JSON.cs",
+              "RelativeToolTip": "..\\App\\JSON.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:00:57.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProtectionDevice.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\Task2\\ProtectionDevice.cs",
+              "RelativeDocumentMoniker": "..\\App\\Task2\\ProtectionDevice.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\Task2\\ProtectionDevice.cs",
+              "RelativeToolTip": "..\\App\\Task2\\ProtectionDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:48:40.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instruct.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\Instruct.cs",
+              "RelativeDocumentMoniker": "..\\App\\Instruct.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\Instruct.cs",
+              "RelativeToolTip": "..\\App\\Instruct.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowF4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:37:05.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateDialogue.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\DateDialogue.cs",
+              "RelativeDocumentMoniker": "..\\App\\DateDialogue.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\DateDialogue.cs",
+              "RelativeToolTip": "..\\App\\DateDialogue.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:07:31.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tramvai.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\Task1\\Tramvai.cs",
+              "RelativeDocumentMoniker": "..\\App\\Task1\\Tramvai.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practise 26 ~ @\\App\\Task1\\Tramvai.cs",
+              "RelativeToolTip": "..\\App\\Task1\\Tramvai.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAD1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:10:36.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

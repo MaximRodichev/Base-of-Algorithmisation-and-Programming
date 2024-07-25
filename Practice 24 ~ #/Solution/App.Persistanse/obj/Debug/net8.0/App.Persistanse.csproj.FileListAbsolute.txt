@@ -1,0 +1,6 @@
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution\App.Persistanse\obj\Debug\net8.0\App.Persistanse.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution\App.Persistanse\obj\Debug\net8.0\App.Persistanse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution\App.Persistanse\obj\Debug\net8.0\App.Persistanse.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution\App.Persistanse\obj\Debug\net8.0\App.Persistanse.AssemblyInfo.cs
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution\App.Persistanse\obj\Debug\net8.0\App.Persistanse.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 24 ~ @\Solution\App.Persistanse\obj\Debug\net8.0\App.Persistanse.sourcelink.json

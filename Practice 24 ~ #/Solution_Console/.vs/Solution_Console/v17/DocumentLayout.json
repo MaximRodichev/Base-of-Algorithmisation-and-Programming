@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 24 ~ @\\solution_console\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\instruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:instruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\tests\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:tests\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\tests\\sportsmantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:tests\\sportsmantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\repositories\\trianglerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:repositories\\trianglerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\models\\trianglemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:models\\trianglemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\models\\validations\\trianglevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:models\\validations\\trianglevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 24 ~ @\\solution_console\\tests\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:tests\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 24 ~ @\\solution_console\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 24 ~ @\\solution_console\\models\\validations\\bookvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:models\\validations\\bookvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\models\\sportsmanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:models\\sportsmanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\repositories\\sportsmanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:repositories\\sportsmanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\models\\validations\\sportsmanvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D446208-C09B-41DA-AE85-2FA7C0CA0301}|Solution_Console.csproj|solutionrelative:models\\validations\\sportsmanvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TriangleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Repositories\\TriangleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TriangleRepository.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Repositories\\TriangleRepository.cs",
+              "RelativeToolTip": "Repositories\\TriangleRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:24:51.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SportsmanTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Tests\\SportsmanTests.cs",
+              "RelativeDocumentMoniker": "Tests\\SportsmanTests.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Tests\\SportsmanTests.cs",
+              "RelativeToolTip": "Tests\\SportsmanTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:01:46.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TriangleTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Tests\\TriangleTests.cs",
+              "RelativeDocumentMoniker": "Tests\\TriangleTests.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Tests\\TriangleTests.cs",
+              "RelativeToolTip": "Tests\\TriangleTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:38:40.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:10:59.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instruct.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Instruct.cs",
+              "RelativeDocumentMoniker": "Instruct.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Instruct.cs",
+              "RelativeToolTip": "Instruct.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowGcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:28:47.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TriangleValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\Validations\\TriangleValidation.cs",
+              "RelativeDocumentMoniker": "Models\\Validations\\TriangleValidation.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\Validations\\TriangleValidation.cs",
+              "RelativeToolTip": "Models\\Validations\\TriangleValidation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:11:45.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:19:23.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TriangleModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\TriangleModel.cs",
+              "RelativeDocumentMoniker": "Models\\TriangleModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\TriangleModel.cs",
+              "RelativeToolTip": "Models\\TriangleModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAmwDcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:11:17.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Tests\\BookTests.cs",
+              "RelativeDocumentMoniker": "Tests\\BookTests.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Tests\\BookTests.cs",
+              "RelativeToolTip": "Tests\\BookTests.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwEcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:57:55.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA5wEEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:48:19.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\Validations\\BookValidation.cs",
+              "RelativeDocumentMoniker": "Models\\Validations\\BookValidation.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\Validations\\BookValidation.cs",
+              "RelativeToolTip": "Models\\Validations\\BookValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:42:55.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SportsmanModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\SportsmanModel.cs",
+              "RelativeDocumentMoniker": "Models\\SportsmanModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\SportsmanModel.cs",
+              "RelativeToolTip": "Models\\SportsmanModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:22:58.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SportsmanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Repositories\\SportsmanRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SportsmanRepository.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Repositories\\SportsmanRepository.cs",
+              "RelativeToolTip": "Repositories\\SportsmanRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:35:49.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SportsmanValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\Validations\\SportsmanValidation.cs",
+              "RelativeDocumentMoniker": "Models\\Validations\\SportsmanValidation.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution_Console\\Models\\Validations\\SportsmanValidation.cs",
+              "RelativeToolTip": "Models\\Validations\\SportsmanValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:26:46.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

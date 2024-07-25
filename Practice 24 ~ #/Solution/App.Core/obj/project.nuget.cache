@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kdf4fgzmI5MFhjYkNfymmcXHaaj8JRnGrBT3xuISztkbzYFwFSeDwWA/ZgN1Fk6i5YJ3CWWLECN0z7DK/kC1Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 24 ~ @\\Solution\\App.Core\\App.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hi-tech\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

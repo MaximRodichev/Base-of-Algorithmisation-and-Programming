@@ -1,0 +1,18 @@
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\bin\Debug\net8.0\Practice 25 ~ @.exe
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\bin\Debug\net8.0\Practice 25 ~ @.deps.json
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\bin\Debug\net8.0\Practice 25 ~ @.runtimeconfig.json
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\bin\Debug\net8.0\Practice 25 ~ @.dll
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\bin\Debug\net8.0\Practice 25 ~ @.pdb
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\Practice 25 ~ @.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\Practice 25 ~ @.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\Practice 25 ~ @.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\Practice 25 ~ @.AssemblyInfo.cs
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\Practice 25 ~ @.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\Practice 25 ~ @.sourcelink.json
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\Practice.F1F13937.Up2Date
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\Practice 25 ~ @.dll
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\refint\Practice 25 ~ @.dll
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\Practice 25 ~ @.pdb
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\Practice 25 ~ @.genruntimeconfig.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\Base-of-Algorithmisation-and-Programming\Practice 25 ~ @\obj\Debug\net8.0\ref\Practice 25 ~ @.dll

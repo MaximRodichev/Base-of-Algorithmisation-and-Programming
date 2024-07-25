@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 25 ~ @\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 25 ~ @\\3task\\matrixmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|solutionrelative:3task\\matrixmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 25 ~ @\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|solutionrelative:json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 25 ~ @\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 25 ~ @\\1task\\scientisttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|solutionrelative:1task\\scientisttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 25 ~ @\\1task\\scientistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|solutionrelative:1task\\scientistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 25 ~ @\\1task\\personbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|solutionrelative:1task\\personbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 25 ~ @\\2task\\numbergeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|solutionrelative:2task\\numbergeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\base-of-algorithmisation-and-programming\\practice 25 ~ @\\instruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D066B85-4652-4169-8418-031098E9F4D3}|Practice 25 ~ @.csproj|solutionrelative:instruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatrixModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\3Task\\MatrixModel.cs",
+              "RelativeDocumentMoniker": "3Task\\MatrixModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\3Task\\MatrixModel.cs",
+              "RelativeToolTip": "3Task\\MatrixModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:25:27.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NumberGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\2Task\\NumberGeneration.cs",
+              "RelativeDocumentMoniker": "2Task\\NumberGeneration.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\2Task\\NumberGeneration.cs",
+              "RelativeToolTip": "2Task\\NumberGeneration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:05:42.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:31:40.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JSON.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\JSON.cs",
+              "RelativeDocumentMoniker": "JSON.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\JSON.cs",
+              "RelativeToolTip": "JSON.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:15:00.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Instruct.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\Instruct.cs",
+              "RelativeDocumentMoniker": "Instruct.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\Instruct.cs",
+              "RelativeToolTip": "Instruct.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAASwFUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:15:14.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScientistTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\1Task\\ScientistTest.cs",
+              "RelativeDocumentMoniker": "1Task\\ScientistTest.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\1Task\\ScientistTest.cs",
+              "RelativeToolTip": "1Task\\ScientistTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:49:23.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScientistModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\1Task\\ScientistModel.cs",
+              "RelativeDocumentMoniker": "1Task\\ScientistModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\1Task\\ScientistModel.cs",
+              "RelativeToolTip": "1Task\\ScientistModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:39:43.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAYwE4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:38:14.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonBaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\1Task\\PersonBaseModel.cs",
+              "RelativeDocumentMoniker": "1Task\\PersonBaseModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\Base-of-Algorithmisation-and-Programming\\Practice 25 ~ @\\1Task\\PersonBaseModel.cs",
+              "RelativeToolTip": "1Task\\PersonBaseModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIAzwB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:39:23.412Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

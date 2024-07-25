@@ -48,7 +48,7 @@ namespace Практическая_23
         private int Rashod { get { return rashod_; } set { rashod_ = value; } }
         public int YearOf { get { return year_; } set { if (year_==0) { year_ = value; Nalog = 0; } } }
         private int Nalog { get { return nalog_; } set {
-                if (new DateTime(2024).Year - YearOf > 10) { nalog_ = 20; }
+                if (DateTime.Now.Year - YearOf > 10) { nalog_ = 20; }
                 else { nalog_ = 10; }
             } 
         }
